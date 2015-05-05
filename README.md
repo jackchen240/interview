@@ -5,11 +5,11 @@ For each of the languages in this project (js and python), there are 6 questions
 questions typically requires that you fill in code to fulfill the condition set forward in comments
 above the question. When necessary, use commented lines to provide additional information in your
 answer.
-There is also one html/css question comprised of a design to be implemented and one data 
+There is also one html/css question comprised of a design to be implemented and one data
 visualization problem comprised of a set of data to be visualized.
 
 Download or clone the repository locally, complete as many questions as you are able, compress the
-directories containing your answers, and email your submission to **matt at mysidewalk dot com and
+directories containing your answers, and email your submission to **das at mysidewalk dot com and
 joel at mysidewalk dot com**.
 
 Please do not fork, post a pull request, or in any other way publicly expose your answers. This is
