@@ -1,12 +1,14 @@
 Interview Questions
 ===================
 
-For each of the languages in this project (js and python), there are 6 questions. Each of these
+This project is divided into 4 mini-projects, each for a particular topic or programming language.
+
+There are 6 questions each for JavaScript, Python; 3 questions each for SQL and Data Cleanup. Each of these
 questions typically requires that you fill in code to fulfill the condition set forward in comments
 above the question. When necessary, use commented lines to provide additional information in your
 answer.
-There is also one html/css question comprised of a design to be implemented and one data
-visualization problem comprised of a set of data to be visualized.
+
+For the three questions on data cleanup, please create a new source file in that directory.
 
 Download or clone the repository locally, complete as many questions as you are able, compress the
 directories containing your answers, and email your submission to **das at mysidewalk dot com and
