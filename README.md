@@ -1,5 +1,5 @@
-Interview Questions
-===================
+Intern Interview Questions
+==========================
 
 This project is divided into 4 mini-projects, each for a particular topic or programming language.
 
